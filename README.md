@@ -1,28 +1,22 @@
 # Amanda Silva Guimarães
 
-**`Data Engineer | Analytics Engineer`**
+**`Data Analyst | Analytics Engineer`**
 
-Olá! Meu nome é Amanda e sou Engenheira de Computação apaixonada por dados e tecnologia. Tenho experiência na construção de pipelines ETL, modelagem de dados e desenvolvimento de dashboards interativos com Power BI. Estou em constante evolução técnica, explorando ferramentas como dbt, Snowflake, Databricks e soluções em Cloud. Acredito no potencial dos dados para impulsionar decisões estratégicas e gerar valor real para os negócios, e é isso que me motiva a buscar soluções cada vez mais eficientes, inovadoras e escaláveis.
+Engenheira de Computação com foco em transformar dados em soluções de Business Intelligence que impulsionam decisões estratégicas e geram valor para o negócio. Combino conhecimentos técnicos em Python, SQL, Power BI, ETL, dbt e Snowflake com experiência prática em gestão e metodologias ágeis. Criei projetos envolvendo pipelines de dados, modelagem de Data Warehouse, construção de dashboards com foco em storytelling, manipulação e análise de dados, aplicando boas práticas de engenharia de software e versionamento.
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/amandasguimaraes/" target="_blank">
-    <img 
-      alt="LinkedIn" 
-      src="https://img.shields.io/badge/LinkedIn-amandasguimaraes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
+<p align="center">
+  <a href="https://www.linkedin.com/in/amandasguimaraes/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:amandasg.dataeng@gmail.com">
-    <img 
-      alt="Email" 
-      src="https://img.shields.io/badge/Email-amandasg.dataeng@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    />
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" alt="Email" />
   </a>
 </p>
 
 ---
 
 ### 💻 Tech Stack
- 
+
 <img 
     align="left" 
     alt="Python" 
@@ -55,8 +49,43 @@ Olá! Meu nome é Amanda e sou Engenheira de Computação apaixonada por dados e
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/48/000000/power-bi.png"
 />
+<img 
+    align="left" 
+    alt="dbt" 
+    title="dbt" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/2a98601b-8b85-4cc7-b5ee-e65fc3f52668"
+/>
+<img 
+    align="left" 
+    alt="Snowflake" 
+    title="Snowflake" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg"
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+/>
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+/>
+
 <br/>
 <br/>
+
+---
 
 ### 📊 GitHub Stats
 
